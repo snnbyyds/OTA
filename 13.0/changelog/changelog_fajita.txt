@@ -1,0 +1,8 @@
+30-03-2022:
+- Updated to Android 13
+- Fix Overlay
+- Add OTA!
+- Thanks Sevralt!
+
+09-03-2022:
+- Initial eng release
